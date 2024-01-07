@@ -1,24 +1,22 @@
 # 花述 -- 以AIGC花为载体的情绪轻社交平台
 ## Flowy -- AIGC-based light emotional social platforms
-
-花述，对花倾诉，用花表述，以花为情绪载体，借助AIGC技术实现个性化的情绪表达和社交。
-产品通过情绪推荐和赋予等功能让用户选择和定制最符合内心情感表达的花，AI赋予的变化使每段情绪都获得多模态的呈现。而花以AI倾听者的形式进行回应和互动，结合社区中的其他用户带来积极情感反馈。产品还提供了情绪周报等回忆功能，让用户的每段情绪都得到珍视。
+Flowy, confiding in flowers, using flowers as emotional carriers, using AIGC technology to achieve personalized emotional expression and social interaction.
+The product allows users to choose and customize flowers that best reflect their inner emotions through emotional recommendations and empowerment functions. The changes provided by AI enable each emotion to be presented in a multimodal way. And flowers respond and interact in the form of AI listeners, bringing positive emotional feedback to other users in the community. The product also provides recall functions such as emotional weekly reports, allowing users to cherish every emotion.
+![visual](src/visual.png)
 
 ## High fidelity example
 
-![高保真](1.png)
+![高保真](src/1.png)
+![示例图片2](src/2.png)
+![示例图片3](src/3.png)
 
-## Demo
+## Swift development
+### Frameworks
 
-![示例图片](2.png)
-
-## 功能特点
-
-列出项目的主要功能和特点。
-
-- 功能1
-- 功能2
-- 功能3
+- SwiftUi
+- CoreMotion
+- SpriteKit
+- OpenAiSwift
 
 ## Teams
-![team](team.png)
+![team](src/team.jpg)
